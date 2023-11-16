@@ -1,1 +1,14 @@
-# FPGA
+# FPGA PS/2 Keyboard Piano
+
+Implementasi piano dalam keyboard menggunakan Xilinx Spartan 3E Starter Kit
+
+Menggunakan:
+- PS/2 Keyboard
+- Speaker
+- 1k Resistor
+
+## Anggota: 
+- MOHAMMAD AMRIZAL KURNIANSYAH (225150300111003)
+- WAFI ATHANUSA SAKTI (225150307111004)
+- MANFREDY PATARIDA HASIHOLAN MANURUNG (225150301111006)
+- YASA HARISSAVANNO (225150307111066)
