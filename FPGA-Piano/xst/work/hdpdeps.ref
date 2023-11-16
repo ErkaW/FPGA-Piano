@@ -1,0 +1,7 @@
+V3 3
+FL /home/ise/Share/FPGA-Piano/main.vhd 2023/11/16.05:41:28 P.20131013
+EN work/key 1699811025 FL /home/ise/Share/FPGA-Piano/main.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/key/Behavioral 1699811026 \
+      FL /home/ise/Share/FPGA-Piano/main.vhd EN work/key 1699811025

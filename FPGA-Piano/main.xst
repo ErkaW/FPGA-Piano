@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Share/FPGA-Piano/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Share/FPGA-Piano/xst"
+elaborate
+-ifn main.prj
+-ifmt mixed

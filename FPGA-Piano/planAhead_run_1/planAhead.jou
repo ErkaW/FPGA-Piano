@@ -1,0 +1,44 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:24:36 MDT 2013
+# Start of session at: Sun Nov 12 16:27:51 2023
+# Process ID: 3740
+# Log file: /home/ise/Share/FPGA-Piano/planAhead_run_1/planAhead.log
+# Journal file: /home/ise/Share/FPGA-Piano/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source /home/ise/Share/FPGA-Piano/pa.fromHdl.tcl
+update_compile_order -fileset sim_1
+set_property package_pin "" [get_ports [list  {LED[7]}]]
+startgroup
+set_property package_pin G13 [get_ports data]
+endgroup
+startgroup
+set_property package_pin G14 [get_ports pclk]
+endgroup
+startgroup
+set_property package_pin F12 [get_ports {LED[0]}]
+endgroup
+set_property package_pin "" [get_ports [list  {LED[2]}]]
+startgroup
+set_property package_pin E12 [get_ports {LED[1]}]
+endgroup
+startgroup
+set_property package_pin E11 [get_ports {LED[2]}]
+endgroup
+startgroup
+set_property package_pin F11 [get_ports {LED[3]}]
+endgroup
+startgroup
+set_property package_pin C11 [get_ports {LED[4]}]
+endgroup
+startgroup
+set_property package_pin E9 [get_ports {LED[6]}]
+endgroup
+startgroup
+set_property package_pin D11 [get_ports {LED[5]}]
+endgroup
+startgroup
+set_property package_pin F9 [get_ports {LED[7]}]
+endgroup
+save_constraints
