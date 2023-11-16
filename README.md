@@ -1,6 +1,6 @@
 # FPGA PS/2 Keyboard Piano
 
-Implementasi piano dalam keyboard menggunakan Xilinx Spartan 3E Starter Kit
+Implementasi piano dalam keyboard menggunakan Xilinx Spartan-3E FPGA Starter Kit
 
 Menggunakan:
 - PS/2 Keyboard
